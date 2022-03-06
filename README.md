@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Angular.js
+🌱 I’m currently learning Python
 
 💬 Ask me about Blender Software
 
