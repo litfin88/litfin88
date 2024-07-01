@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Emirhan and I'm a Game Developer, from Turkey.</h2>
+<h2 align="left">Hi 👋 It's a pleasure to see you here :)</h2>
+Dont forget to check my web; 
+www.emirhankursun.com
 
 ###
 
